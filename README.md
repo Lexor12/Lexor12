@@ -32,6 +32,12 @@ It's probably not the best, since I'm just learning, but you learn from your mis
 **C#**
 >*This language is my seccond favourite. I have created a great variety of executable programs on terminals and Windows Forms Applications.*
 
+**Python**
+>*I use this languague many times, i'm learning how to use it rigth now.*
+
+**SQL**
+>*i'm learning how to use it rigth now.*
+
 # Skills with Certifications:
 **EXCEL**
 >*I am a certified Microsoft Office Specialist.*
