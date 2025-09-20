@@ -46,7 +46,7 @@ It's probably not the best, since I'm just learning, but you learn from your mis
 >*I hold a certification in Cybersecurity Basics.*
 
 **Networking essential**
->*I don't have a certification, but i know a lot of it, because i narrowly completed a Cisco Course.*
+>*I don't have a certification, but i know a lot of it, because i narrowly completed a Cisco Course. Also i made a lot of proyects/activities on CPT.*
 
 >  [!NOTE]
 Primary language: **SPANISH**
