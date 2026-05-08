@@ -63,6 +63,7 @@ Soy estudiante de **Tecnólogo en Desarrollo de Software** con una mentalidad de
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=lexor_12&theme=tokyonight&hide_border=false" height="200" alt="streak graph" />
 </p>
+
 ---
 
 ### 🏆 Certificaciones
