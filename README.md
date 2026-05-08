@@ -56,11 +56,10 @@ Soy estudiante de **Tecnólogo en Desarrollo de Software** con una mentalidad de
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lexor12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexor12&layout=compact&langs_count=7&theme=tokyonight" />
+<p align="left">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lexor_12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexor_12&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
-
 ---
 
 ### 🏆 Certificaciones
