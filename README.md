@@ -10,6 +10,11 @@
 
 ---
 
+### Visita Mi Portafolio 
+> https://lexordev.netlify.app/portafolio
+
+---
+
 ### 🚀 Sobre mí
 Soy estudiante de **Tecnólogo en Desarrollo de Software** con una mentalidad de aprendizaje constante. Me apasiona resolver problemas lógicos, desde la programación de microcontroladores hasta el despliegue de aplicaciones web modernas.
 
